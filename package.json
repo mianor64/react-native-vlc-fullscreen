@@ -1,12 +1,12 @@
 {
-  "name": "react-native-vlc-player",
+  "name": "react-native-vlc-fullscreen",
   "version": "0.1.0",
   "description": "VLC Player for react-native",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
-  "repository": "git@github.com:ghondar/react-native-vlc-player.git",
+  "repository": "git@github.com:mianor64/react-native-vlc-fullscreen.git",
   "keywords": [
     "react-native",
     "android",
