@@ -78,7 +78,7 @@ public class PlayerActivity extends Activity implements IVLCVout.Callback {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.player);
+        setContentView(R.layout.player2);
 
         layout = (LinearLayout) findViewById(R.id.vlc_container);
         mSurface = (SurfaceView) findViewById(R.id.vlc_surface);
